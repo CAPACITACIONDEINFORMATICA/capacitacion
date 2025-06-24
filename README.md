@@ -5,7 +5,7 @@
   <title>Programa de Capacitación en Informática</title>
   <style>
     body {
-      background-color: #BDF5F2;
+      background-color: #DFBB39;
       color: #1a1a1a;
       font-family: Arial, sans-serif;
       padding: 20px;
