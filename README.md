@@ -245,5 +245,4 @@ Adaptabilidad, conocimientos básicos de lectura y escritura.</p>
     <input type="submit" value="Enviar inscripción">
   </form>
 
-</body>
-</html>
+
